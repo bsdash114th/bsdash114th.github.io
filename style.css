@@ -1,11 +1,43 @@
 .IAM{
-    color:black;
+    color:rgb(197, 228, 21);
     font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.IIAM{
+    color:rgb(12, 116, 185);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.IIIAM{
+    color:rgb(211, 198, 198);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 .jumbotron{
     background-image: url(./images/04.jpg);
 
     width: 1400px;
     height: 250px;
-
 }
+body{
+  
+    overflow-x:hidden;
+}
+.text-center {
+    text-decoration-line: underline;
+  }
+  .CASE{
+    color:rgb(197, 228, 21);
+    font-size: 20px;
+    font-family: sans-serif
+  }
+ 
+
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+
+ 
